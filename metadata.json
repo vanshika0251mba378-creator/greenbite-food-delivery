@@ -1,0 +1,6 @@
+{
+  "name": "GreenBite",
+  "description": "Eat Fresh. Study Better. Stay Green. Hyper-local healthy late-night food delivery for DBS Global University, Dehradun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
